@@ -6,7 +6,7 @@ a PyTorch version for the work [ResLSTM(ResNet+LSTM+GCN)](https://github.com/Jin
 
 Thanks to the writer [Jinlei Zhang](https://github.com/JinleiZhangBJTU). It's a very great work.
 
-![Model structure](./pictures/Model structure.png)
+![1](./pictures/Model structure.png)
 
 ### Structure
 
